@@ -6,9 +6,9 @@ Throughout this refracting project, I learned how to link to another part of the
 
 ## Usage
 When you visit the page at https://milena-allaway.github.io/module_1_challenge/ you will see a page that looks like this:
-```md
+
 <img src="/assets/images/module_1_challenge_githubpage_screenshot.png">
-```
+
 You can click on the links in the navigation bar, in the header, to take you to specific content. Or you can simply scroll down the page.
 
 ## Credits
